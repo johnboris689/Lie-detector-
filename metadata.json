@@ -1,0 +1,6 @@
+{
+  "name": "TruthScan AI",
+  "description": "Ultimate Lie Detector app with AI Voice Stress Analyzer, Face Camera Scanner, Heartbeat Test, Text Analyzer, and interactive AI Interrogator Chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
